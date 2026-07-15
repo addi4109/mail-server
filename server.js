@@ -1,5 +1,3 @@
-}
-});
 
 // Send Email API – non-blocking
 // Send Email API
