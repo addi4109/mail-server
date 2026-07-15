@@ -1,1 +1,17 @@
-
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "description": "Email Server for InfinityFree Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aditya Sawant",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.19.2",
+    "nodemailer": "^6.10.1"
+  }
+}
